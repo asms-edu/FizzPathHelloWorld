@@ -1,4 +1,4 @@
-#Worst Readme Ever#Worst Readme Ever
+#Worst Readme Ever
 <<<<<<< HEAD
 <<<<<<< HEAD
 
