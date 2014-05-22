@@ -1,4 +1,5 @@
 #Worst Readme Ever
+<<<<<<< HEAD
 
 #Cat
 *          ,.                 .,
@@ -37,3 +38,6 @@
 *     .,'   ''::     :W:     :WWWWW.  .,::::''
 *  ,'        ''','',',','','''WWWWW::::''
 *   ':,,,,,,,':  :  : : :  :  :WWWW'''
+=======
+An Android App with the idea of creating some physic thing but nobody knows what we really want to do...
+>>>>>>> origin/Editing-Readme
